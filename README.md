@@ -146,6 +146,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Teal**](https://www.tealhq.com/) | All-in-one job search manager. | Organization, Free |
 | [**JibberJobber**](https://www.jibberjobber.com/) | Career management CRM. | Organization, Free Tier |
 | [**searchlinkbuilder**](https://searchlinkbuilder.com/) | PSA because this is very handy - I found this very useful tool that builds the boolean operator links for you. Add your wants and don't wants. And then just copy and paste the link from the bottom.| Job, lInkden|
+| [**Keel**](https://github.com/KeelDev-tech/keel) | Open-core job-application autopilot built on a truthfulness contract: it only ever claims verified facts, counts a submission only on real page confirmation, and parks the lead instead of guessing. Apache-2.0. | Automation, Open Source |
 </details>
 
 <details> 
