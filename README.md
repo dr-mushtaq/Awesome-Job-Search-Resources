@@ -59,14 +59,6 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 [![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
 
-Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
-**Join hundreds of AI tool on Substack.**
-
-👉 [**Subscribe to Our Coureseateach Newsletter**](https://substack.com/@coursesteach) ✨
-
-💡 Optional Badge (to make it pop)
-
-[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
 
 </p>
 
@@ -291,6 +283,5 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## 📬 Stay Updated with Job Search Tips!
 
 Get weekly job search strategies, new tools, and career advice straight to your inbox.  
-👉 [**Subscribe to Our Career Newsletter**](https://example.com/newsletter) ✨
+👉 [**Subscribe Awesome AI Tools & Resources**](https://www.youtube.com/playlist?list=PLLC7bmONapvCTGlSgfd3lhkceBnnoR45C) ✨
 
-[![Subscribe](https://img.shields.io/badge/Subscribe-Newsletter-blue?style=for-the-badge)](https://example.com/newsletter)
