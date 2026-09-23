@@ -44,7 +44,7 @@ Tags: Free, Web, Chatbot
 
 ### 📫 Contact
 
-For bulk suggestions, feedback, or collaboration, feel free to [open an issue](https://github.com/your-repo/issues) or reach out via email/LinkedIn.
+For bulk suggestions, feedback, or collaboration, feel free to [open an issue](https://github.com/dr-mushtaq/Awesome-Job-Search-Resources/issues) or reach out via email(mushtaqmsit@gmail.com).
 
 
 
