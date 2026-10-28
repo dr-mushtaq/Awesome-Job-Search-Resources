@@ -90,6 +90,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|
 | [**Kickresume**](https://www.kickresume.com/) | AI-powered resume builder with templates. | Resume, AI, Free/Paid |
 | [**ResumeWorded**](https://resumeworded.com/) | Improves your resume with AI suggestions. | Resume, AI, Free Tier |
+| [**JobEmerge**](https://www.jobemerge.work/) | AI career tool for job-fit checks, resume editing and translation, cover letters, mock interviews, and application tracking. | Resume, AI, Free Tier |
 | [**Canva Resume Builder**](https://www.canva.com/resumes/) | Professional resume templates. | Resume, Design, Free |
 | [**CoverDoc.ai**](https://coverdoc.ai/) | Generates personalized cover letters. | Cover Letter, AI, Free |
 | [**Overleaf**](https://www.overleaf.com/) | Online LaTeX editor great for building clean, professional resumes and cover letters. | Resume, Cover Letter, LaTeX, Free/Paid |
