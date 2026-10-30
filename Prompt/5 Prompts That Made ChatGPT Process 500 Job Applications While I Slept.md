@@ -47,9 +47,9 @@ Good start. But it leaves too much room for vague guesses.
 
 Thanks for reading AI Action Letter! This post is public so feel free to share it.
 
-Share
-
 Use this version instead:
+
+```python
 
 Act as a senior recruiter with 15 years of experience hiring for roles similar to my background.
 
@@ -85,6 +85,7 @@ Rules:
 
 Finish by recommending the 5 titles I should prioritize first and explain the choice in plain English.
 This prompt gives you a search map.
+```python
 
 And it often reveals titles you wouldn’t have thought to type into LinkedIn or Indeed.
 
