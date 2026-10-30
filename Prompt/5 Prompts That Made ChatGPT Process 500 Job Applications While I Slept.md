@@ -91,7 +91,7 @@ This prompt gives you a search map.
 
 And it often reveals titles you wouldn’t have thought to type into LinkedIn or Indeed.
 
-Step 2: Turn Your Resume Into a Strong Master Version
+# Step 2: Turn Your Resume Into a Strong Master Version
 A master resume isn’t the document you send everywhere.
 
 It’s your source file. It holds your strongest truthful bullets, useful keywords, project details, and measurable results. Each tailored resume gets built from this version.
