@@ -1,27 +1,7 @@
-Hey folks,
-
-I wanted to see how much of the repetitive application process ChatGPT could handle while I focused on interview prep and actual conversations with people.
-
-So I gave it my resume, taught it what a good-fit job looked like, and built a system to review hundreds of openings. Seven days later, I had 10 interview invitations.
-
-Not bad for an experiment I nearly talked myself out of.
-
-But here’s the important part. I didn’t ask ChatGPT to spray the same resume across 500 random Easy Apply listings.
-
-That would’ve been fast. And mostly useless.
-
-I used it to process up to 500 listings, remove weak matches, tailor my resume for the strongest roles, and prepare an approval queue. I still reviewed the important details before anything went out.
-
-That distinction matters.
+ 
 
 
-
-
-This issue gives you the full workflow, including the exact prompts. I’ve rewritten each one so ChatGPT has clear rules, better context, and fewer chances to make something up.
-
-Type your email...
-Subscribe
-Why Most Job Searches Break Before the First Application
+# Why Most Job Searches Break Before the First Application
 Most people start by typing one broad title into LinkedIn.
 
 Then they open 14 tabs, skim a few descriptions, save three jobs, and send the same resume to all of them.
@@ -38,7 +18,7 @@ Not by inventing experience. Not by hiding keywords in white text. And definitel
 
 By doing the boring research carefully.
 
-Before You Start: Build One Clean Job-Search Workspace
+# Before You Start: Build One Clean Job-Search Workspace
 Open the ChatGPT desktop app, go to Work, and start a dedicated job-search chat or project.
 
 Keep every step in the same workspace so ChatGPT can use the decisions you’ve already made.
