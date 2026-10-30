@@ -37,7 +37,8 @@ Leave out your Social Security number, passport, banking details, and account pa
 
 One workspace. One source of truth.
 
-Step 1: Find the 20 Job Titles You Should Actually Target
+# Step 1: Find the 20 Job Titles You Should Actually Target
+
 The first prompt in my original workflow was simple:
 
 Act as a senior recruiter. Based on my resume, give me 20 job titles I’m qualified for and the top ATS keywords for each.
