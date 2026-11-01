@@ -111,11 +111,13 @@ I create content around AI, tech, and careers for 30K+ on LinkedIn and 170K+ on 
 Connect: topmate.io/jugaldb
  ```
 
-Quick Action
+## Quick Action
 
 Rewrite your About section. Keep it under 300 words. Write in first person. End with a clear call to action.
 
-Claude Prompt / Write Your LinkedIn About Section
+### Claude Prompt / Write Your LinkedIn About Section
+
+```python
 
 Help me write a LinkedIn About section. Ask me questions one at a time until you have everything you need. Here is the context to start:
 
@@ -141,14 +143,16 @@ What I want people to do after reading my profile:
 
 Now write my About section. Under 300 words. First person. Open with something human, not my job title. Short paragraphs with white space. At least one real metric or proof point. End with a single clear call to action. No buzzwords, no em dashes, no corporate language.
 
+```
+
 03
 
 Experience
 
-Most people write job descriptions. Write proof instead.
+# Most people write job descriptions. Write proof instead.
 Recruiters care about results, not responsibilities. Every bullet in your experience section should have an action, a metric, and the technology you used.
 
-The formula
+## The formula
 Template
 
 [Action verb] [what you built or fixed] using [technology], resulting in [specific metric or outcome].
@@ -161,19 +165,18 @@ Strong
 
 Led 6 engineers to cut API latency by 40%, shipping 2 weeks ahead of schedule.
 
-Keyword strategy
-List every technology, language, and framework you touched in that role
+## Keyword strategy
+- List every technology, language, and framework you touched in that role
+- Include team size, system scale, and user impact wherever you can
+- Recruiters search for Java, Python, AWS, Kubernetes separately. Each one you add is a new reason to show up in search.
 
-Include team size, system scale, and user impact wherever you can
-
-Recruiters search for Java, Python, AWS, Kubernetes separately. Each one you add is a new reason to show up in search.
-
-Quick Action
+## Quick Action
 
 Go to your most recent role and rewrite 2 bullets using the formula above. Add the name of every technology you used, even if it was minor.
 
-Claude Prompt / Rewrite Your Experience Bullets
+## Claude Prompt / Rewrite Your Experience Bullets
 
+```python
 I need help rewriting my LinkedIn experience bullets to be more impactful and keyword-rich for recruiter searches.
 
 Role I want to improve:
@@ -197,7 +200,7 @@ Roles I am targeting with this profile:
 [e.g. Senior Backend Engineer, Platform Engineer, SRE]
 
 Rewrite my bullets. Each one: action verb, what I built or fixed, technology used, measurable result. Make every bullet keyword-rich for LinkedIn Sales Navigator. Give me 4 to 6 rewritten bullets. After each one, note which search keywords it targets.
-
+ ```
 04
 
 Certifications
