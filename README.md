@@ -341,6 +341,16 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 </details>
 
+<details> 
+<summary> <h2>📄 important Prompt </h2> </summary>
+
+| Title/Link | Description | Tags |
+|---|---|---|
+| [**5 Prompts To 10x Your LinkedIn Profile**](https://jaindl.substack.com/p/5-prompts-to-10x-your-linkedin-profile) | Create Prompt Section and also create md for each prompt type| Prompt |
+| [**How I Get 50+ Recruiter DMs Every Month Without Applying to a Single Job**](https://github.com/dr-mushtaq/Awesome-Job-Search-Resources/blob/main/Prompt/How%20I%20Get%2050%2B%20Recruiter%20DMs%20Every%20Month%20Without%20Applying%20to%20a%20Single%20Job.md) | Create Prompt Section and also create md for each prompt type| Prompt |
+
+</details>
+
 
 ## 📬 Stay Updated with Job Search Tips!
 
