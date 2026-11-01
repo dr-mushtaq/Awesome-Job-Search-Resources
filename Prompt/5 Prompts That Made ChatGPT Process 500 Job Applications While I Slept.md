@@ -562,3 +562,6 @@ Start with your resume and Prompt 1 today.
 Twenty minutes. That’s enough.
 
 If you know someone who is spending every night filling out repetitive job applications, please share this with them.
+
+# References
+[5 Prompts That Made ChatGPT Process 500 Job Applications While I Slept](https://abhijayvuyyuru.substack.com/p/5-prompts-that-made-chatgpt-process?utm_source=share&utm_medium=android&r=f2squ)
