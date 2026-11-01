@@ -79,28 +79,25 @@ Write me 3 LinkedIn headline options. Each must be under 220 characters, include
 
 Your About Section
 
-Your About section is your sales pitch. Treat it like one.
+# Your About section is your sales pitch. Treat it like one.
 Once a recruiter finds your profile from a search, your About section is what makes them stop scrolling. It needs to answer three questions immediately: Who are you, what have you done, and why should I reach out right now.
 
-What to include
-A human opening line that is not just your job title
+## What to include
 
-The most impressive thing you have shipped or built, with a real number attached
+- A human opening line that is not just your job title
+- The most impressive thing you have shipped or built, with a real number attached
+- Your specific skills and the scale at which you have used them
+- What you are open to and how to reach you
 
-Your specific skills and the scale at which you have used them
+## What to avoid
+- “Passionate engineer seeking new opportunities” says nothing
+- Long walls of text with no white space
+- Generic buzzwords like results-oriented or self-starter
+- Copying from your resume verbatim
 
-What you are open to and how to reach you
+## Here is mine for reference
 
-What to avoid
-“Passionate engineer seeking new opportunities” says nothing
-
-Long walls of text with no white space
-
-Generic buzzwords like results-oriented or self-starter
-
-Copying from your resume verbatim
-
-Here is mine for reference
+```python
 Hi, I’m Jugal.
 
 I grew up in India, graduated a year early just so I could start working sooner. Not because I had to. Because I was impatient to build things.
@@ -112,6 +109,7 @@ But the chapter I am most proud of is not on my resume. In my final year of coll
 I create content around AI, tech, and careers for 30K+ on LinkedIn and 170K+ on Instagram. Featured in Business Insider. I judge hackathons across the Bay Area.
 
 Connect: topmate.io/jugaldb
+ ```
 
 Quick Action
 
