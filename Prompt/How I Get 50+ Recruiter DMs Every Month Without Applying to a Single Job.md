@@ -205,21 +205,21 @@ Rewrite my bullets. Each one: action verb, what I built or fixed, technology use
 
 Certifications
 
-Every certification is a search filter you now pass.
+# Every certification is a search filter you now pass.
 Some recruiters filter candidates exclusively by certification. AWS Cloud Practitioner, Google Cloud, PMP, Scrum Master. If you have one and have not listed it, you are invisible in that search. Student and online certs count too. Coursera, edX, Postman, Meta Blueprint. All of it.
 
-Why it matters beyond the obvious
-Each cert is a filter you now pass in Sales Navigator
+## Why it matters beyond the obvious
+- Each cert is a filter you now pass in Sales Navigator
+- Certifications signal continuous learning, which hiring managers actively value
+- Every certification adds another signal for LinkedIn’s algorithm to surface your profile
 
-Certifications signal continuous learning, which hiring managers actively value
-
-Every certification adds another signal for LinkedIn’s algorithm to surface your profile
-
-Quick Action
+## Quick Action
 
 Go to your LinkedIn profile, click Add Section, and add every certification you have ever completed. Aim for a minimum of 5. If you have none, complete one free LinkedIn Learning course today and add it immediately.
 
-Claude Prompt / Find the Right Certifications to Get Next
+### Claude Prompt / Find the Right Certifications to Get Next
+
+```python
 
 I want to improve my LinkedIn profile by adding the right certifications for the roles I am targeting.
 
@@ -241,37 +241,37 @@ Companies or sectors I want to work in:
 
 Do three things. First, list the 5 certifications that would have the highest impact on my LinkedIn search visibility. For each one: name, issuing body, time to complete, free or paid. Second, tell me which Sales Navigator filters each cert unlocks. Third, rank them by effort-to-impact ratio, highest leverage first.
 
+```
+
 05
 
 Skills
 
-Skills are the exact filters recruiters use to find you in Sales Navigator.
+# Skills are the exact filters recruiters use to find you in Sales Navigator.
 45searches you are invisible to if you only add 5 skills.
 LinkedIn allows 50. Most people add fewer than 10.
 
 If a recruiter types Golang and you have not listed it in your skills section, you do not appear. That is the entire mechanic. Add every skill you are genuinely comfortable with.
 
-What to add
-Every programming language you are genuinely comfortable with
+## What to add
+- Every programming language you are genuinely comfortable with
+- Every framework and library you have used in a serious project
+- Tools: Docker, Kubernetes, Terraform, Datadog, Postman, Git
+- Domains: Distributed Systems, Machine Learning, System Design, Backend, API Development
 
-Every framework and library you have used in a serious project
+## How to get endorsed
 
-Tools: Docker, Kubernetes, Terraform, Datadog, Postman, Git
+- Message 3 to 5 colleagues or classmates and ask them to endorse your top 5 skills
+- Endorse them back for their relevant skills
+- Endorsements from people who worked with you directly carry the most weight
 
-Domains: Distributed Systems, Machine Learning, System Design, Backend, API Development
-
-How to get endorsed
-Message 3 to 5 colleagues or classmates and ask them to endorse your top 5 skills
-
-Endorse them back for their relevant skills
-
-Endorsements from people who worked with you directly carry the most weight
-
-Quick Action
+## Quick Action
 
 Open your LinkedIn skills section. Add skills until you hit 20 at minimum. 50 is the goal. Then message 3 connections asking for endorsements on your top 3 skills.
 
-Claude Prompt / Build Your Complete Skills List
+### Claude Prompt / Build Your Complete Skills List
+
+```python
 
 I need to build a complete and strategic LinkedIn skills list that maximizes my visibility in recruiter searches on Sales Navigator.
 
@@ -292,7 +292,7 @@ Roles I want to be found for:
 [e.g. Senior Backend Engineer, Platform Engineer, SRE, Staff Engineer]
 
 Give me a recommended LinkedIn skills list of 40 to 50 skills. Organize them into categories: Core Technical Skills, Frameworks and Libraries, Cloud and Infrastructure, Data and Databases, Practices and Methodologies, and Soft Skills. For each category, explain which Sales Navigator filters those skills unlock. Mark with an asterisk any skill that appears frequently in job postings for my target roles but that I have not mentioned. Those are my highest-priority gaps.
-
+```
 06
 
 Activity
