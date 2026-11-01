@@ -19,19 +19,16 @@ Work through each section in order. Fill in the orange placeholder fields in eac
 
 Your Headline
 
-Your headline is your SEO keyword field, not your job title.
+# Your headline is your SEO keyword field, not your job title.
 Recruiters use LinkedIn Sales Navigator to find candidates. They type in a skill or role and the algorithm surfaces profiles that match. Your headline is one of the first places it looks.
 
-How Sales Navigator actually works
-Recruiter opens Sales Navigator and types in a role or skill
+## How Sales Navigator actually works
+- Recruiter opens Sales Navigator and types in a role or skill
+- LinkedIn scans headlines, skills, and experience sections for keyword matches
+- Profiles with the right keywords appear at the top. Everyone else is invisible.
 
-LinkedIn scans headlines, skills, and experience sections for keyword matches
-
-Profiles with the right keywords appear at the top. Everyone else is invisible.
-
-Weak vs strong
+## Weak vs strong
 Weak
-
 Software Engineer at Amazon. Tells the algorithm nothing beyond your employer.
 
 Strong
