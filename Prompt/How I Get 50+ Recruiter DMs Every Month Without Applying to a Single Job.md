@@ -29,26 +29,27 @@ Recruiters use LinkedIn Sales Navigator to find candidates. They type in a skill
 
 ## Weak vs strong
 Weak
+
 Software Engineer at Amazon. Tells the algorithm nothing beyond your employer.
 
 Strong
 
 Software Engineer @ Amazon | Backend | AWS | Java | Distributed Systems | UIUC CS 2025. Hits multiple search terms at once.
 
-Formula
+## Formula
 Current role and company
 
-2 to 3 core technical skills
+- 2 to 3 core technical skills
+- 1 domain you specialize in
+- Education or credential if relevant
 
-1 domain you specialize in
-
-Education or credential if relevant
-
-Quick Action
+### Quick Action
 
 Rewrite your headline right now. Open LinkedIn, go to edit profile, and add at least 4 keywords. It takes 3 minutes. This is the single highest-leverage change you can make today.
 
-Claude Prompt / Rewrite Your LinkedIn Headline
+## Claude Prompt / Rewrite Your LinkedIn Headline
+
+```python
 
 Here is my current LinkedIn headline:
 
@@ -71,6 +72,8 @@ My education or most notable credential:
 [e.g. MS Computer Science, UIUC 2025]
 
 Write me 3 LinkedIn headline options. Each must be under 220 characters, include multiple searchable keywords that would appear in a LinkedIn Sales Navigator search, reflect my current role and strongest skills, and sound like a real person wrote it. After the 3 options, explain why each keyword you chose will help me rank in recruiter searches. Then tell me which of the 3 you would recommend and why.
+
+```
 
 02
 
