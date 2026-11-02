@@ -297,17 +297,17 @@ Give me a recommended LinkedIn skills list of 40 to 50 skills. Organize them int
 
 Activity
 
-Active users get 10x more profile views. You just need to show up.
+# Active users get 10x more profile views. You just need to show up.
 You do not need to go viral. You do not need to become a content creator. You need to show up consistently enough that LinkedIn’s algorithm keeps surfacing you.
 
-Three ways to stay active without burning out
+## Three ways to stay active without burning out
 Post original content once a week. Share what you are building, learning, or figuring out. One post a week is enough.
 
 Comment on posts in your field. A specific, thoughtful comment on a well-followed person’s post puts your profile in front of their entire audience.
 
 Repost with your own take. Find a post you agree with, repost it, add 2 to 3 sentences about why it matters to you. Takes 90 seconds.
 
-Content ideas if you have no idea what to post
+## Content ideas if you have no idea what to post
 A problem you solved at work and how you solved it
 
 A tool you discovered that saved you time
@@ -316,15 +316,16 @@ Something you got wrong and what you learned
 
 A career decision you made and why
 
-Quick Action
+## Quick Action
 
 Write one LinkedIn post today. 3 to 5 sentences about something you learned this week. Post it and leave it.
 
-Claude Prompt / Write a LinkedIn Post
+## Claude Prompt / Write a LinkedIn Post
 
 Help me write a LinkedIn post. Here is what I want to share:
 
 Topic or story:
+```python
 
 [e.g. I just solved a production bug that had been in our system for 6 months. Here is how I found it.]
 
@@ -342,22 +343,24 @@ Any specific outcome I want from the post:
 
 Write me 2 versions. Version 1: short, 5 to 8 lines, punchy single-sentence paragraphs, strong first line that stops the scroll. Version 2: longer storytelling version, 15 to 20 lines, a narrative arc, a lesson at the end, a question to drive comments. No em dashes. No hashtag spam. No corporate language.
 
+```
+
 07
 
 Open to Work
 
-Never turn Open to Work on for everyone. Ever.
+# Never turn Open to Work on for everyone. Ever.
 The green banner is visible to your current employer, your clients, and your entire network. The moment you turn it on for everyone, you signal that you are available and possibly not by choice. That is not the signal you want to send.
 
-Do NOT do this
+## Do NOT do this
 
 All LinkedIn Members. The green ring shows on your photo publicly. Your boss can see it.
 
-Do this instead
+## Do this instead
 
 Recruiters only. Visible only inside Sales Navigator. No green banner. Nobody else knows.
 
-How to set it correctly
+## How to set it correctly
 Go to your LinkedIn profile
 
 Click Open to and select Finding a new job
@@ -368,11 +371,13 @@ Fill in the job types and locations you actually want
 
 Save
 
-Quick Action
+### Quick Action
 
 Check your Open to Work setting right now. If it is set to All LinkedIn Members, switch it to Recruiters only. Takes 60 seconds.
 
-Claude Prompt / Define Your Job Preferences for the Form
+## Claude Prompt / Define Your Job Preferences for the Form
+
+```python
 
 I am filling out my LinkedIn Open to Work settings and want to make sure I am targeting the right roles.
 
@@ -397,6 +402,8 @@ Any dealbreakers:
 [e.g. No consulting firms, no contract roles, must offer equity]
 
 Give me the exact text I should enter for each field in the LinkedIn Open to Work form: job titles to list, location preferences, job types, and start date. Tell me which job titles to prioritize so they match what recruiters in my target space are actually searching for on Sales Navigator.
+
+```
 
 08
 
