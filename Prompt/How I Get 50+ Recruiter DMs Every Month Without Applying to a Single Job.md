@@ -409,10 +409,10 @@ Give me the exact text I should enter for each field in the LinkedIn Open to Wor
 
 Featured Section
 
-Pin your resume at the top. Make it one click to download.
+# Pin your resume at the top. Make it one click to download.
 The Featured section sits right below your header. It is the first thing a recruiter sees after your name and headline. Most people leave it empty. Pinning your resume here means a recruiter can download it in one click without ever having to ask you.
 
-What to pin
+# What to pin
 Your resume as a PDF file
 
 A portfolio link or personal website if you have one
@@ -421,7 +421,7 @@ Your best LinkedIn post if it performed well and represents your expertise
 
 A case study, GitHub repo, or project link if relevant to the roles you want
 
-How to add your resume in 60 seconds
+##  How to add your resume in 60 seconds
 Go to your LinkedIn profile
 
 Click Add profile section
@@ -434,11 +434,13 @@ Set the title to Download My Resume
 
 Save and drag it to the top of your Featured section
 
-Quick Action
+## Quick Action
 
 Upload your resume to your Featured section today. Recruiters spend an average of 7 seconds on a profile. Make your resume the first thing they reach.
 
-Claude Prompt / Improve Your Resume Before Uploading It
+## Claude Prompt / Improve Your Resume Before Uploading It
+
+```python
 
 Before I upload my resume to my LinkedIn Featured section, I want to make sure it is strong. Review it and give me specific feedback.
 
@@ -451,6 +453,8 @@ The roles I am targeting:
 [e.g. Senior Backend Engineer, Platform Engineer at Series B or later startups or Big Tech]
 
 Do four things. First, identify the 3 weakest bullets and rewrite them using: action verb, what I built, technology used, measurable result. Second, identify missing keywords that would help me rank in recruiter searches for my target roles and tell me exactly where to add them. Third, rewrite my summary or objective section to be concise, specific, and results-focused. Fourth, give me an overall score out of 10 for recruiter-readiness and explain what would get it to a 10.
+
+```
 
 That’s the full playbook.
 
