@@ -109,6 +109,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**work.mercor**](https://work.mercor.com/explore) | Mercor is an AI-powered recruiting and freelance work platform, especially prominent in the AI, data annotation, and intelligence engineering fields. You create an account once, upload your resume, and Mercor matches you to thousands of job opportunities globally | Jobs, AI job, Free |
 | [**tudelft**](https://careers.tudelft.nl/go/All-jobs/9021002/) | Find Postdoc and others job | Jobs, AI job, Free,Postdoc,PhD |
 | [**sciencecareers**](https://jobs.sciencecareers.org/) | Jobs in Science & Technology from Science Careers| Jobs, AI job, Free,Postdoc,Ph |
+| [**ATS Jobs MCP**](https://github.com/GeminiGeorge22/ats-jobs-mcp) | Open-source MCP server that lets an AI assistant pull new job postings since any date from Ashby, Greenhouse, Lever and SmartRecruiters job boards. | Jobs, AI Agent, MCP, Open Source |
 </details>
 
 <details> 
