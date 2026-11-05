@@ -94,6 +94,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Canva Resume Builder**](https://www.canva.com/resumes/) | Professional resume templates. | Resume, Design, Free |
 | [**CoverDoc.ai**](https://coverdoc.ai/) | Generates personalized cover letters. | Cover Letter, AI, Free |
 | [**Overleaf**](https://www.overleaf.com/) | Online LaTeX editor great for building clean, professional resumes and cover letters. | Resume, Cover Letter, LaTeX, Free/Paid |
+| [**Prizm**](https://heyprizm.com/en?utm_source=github-awesome-job-search-resources&utm_medium=annuaire&utm_campaign=annuaires-2026-11) | Tells you if a job ad is worth applying to, then tailors your CV and cover letter to it. | Resume, Cover Letter, AI, Free Tier |
 </details>
 
 <details> 
