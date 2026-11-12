@@ -343,13 +343,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>📄 important Prompt </h2> </summary>
+<summary> <h2>📄 important Tutorial </h2> </summary>
 
 | Title/Link | Description | Tags |
 |---|---|---|
 | [**5 Prompts To 10x Your LinkedIn Profile**](https://jaindl.substack.com/p/5-prompts-to-10x-your-linkedin-profile) | Create Prompt Section and also create md for each prompt type| Prompt |
 | [**How I Get 50+ Recruiter DMs Every Month Without Applying to a Single Job**](https://github.com/dr-mushtaq/Awesome-Job-Search-Resources/blob/main/Prompt/How%20I%20Get%2050%2B%20Recruiter%20DMs%20Every%20Month%20Without%20Applying%20to%20a%20Single%20Job.md) | Create Prompt Section and also create md for each prompt type| Prompt |
 | [**5 Prompts That Made ChatGPT Process 500 Job Applications While I Slept**](https://github.com/dr-mushtaq/Awesome-Job-Search-Resources/blob/main/Prompt/5%20Prompts%20That%20Made%20ChatGPT%20Process%20500%20Job%20Applications%20While%20I%20Slept.md) | Create Prompt Section and also create md for each prompt type| Prompt |
+| [**Full Guide: How to Turn Your LinkedIn Profile into a 24/7 Inbound Asset**](https://linkedindiaries.substack.com/p/full-guide-how-to-optimise-your-linkedin?utm_source=share&utm_medium=android&r=f2squ) | Create Prompt Section and also create md for each prompt type| Prompt |
 
 </details>
 
