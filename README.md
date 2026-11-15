@@ -117,6 +117,16 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**New Grad Positions**](https://github.com/SimplifyJobs/New-Grad-Positions) | New grad roles, updated daily | Free |
 | [**Huntr**](https://www.huntr.co/) | Track every application in one board | Free |
 | [**Teal**](https://www.tealhq.com/) | Job tracker plus resume keyword matching | Free |
+| [**Levels.fyi**](https://www.levels.fyi/) | Real salaries for real tech roles | Free |
+| [**Glassdoor**](https://www.glassdoor.com/) | Company reviews and interview questions | Free |
+| [**Reactive Resume**](https://rxresu.me/) | Free, open-source resume builder | Free |
+| [**Overleaf**](https://www.overleaf.com/) | Polished LaTeX resume templates | Free |
+| [**Tech Interview Handbook**](https://www.techinterviewhandbook.org/) | The free interview prep bible | Free |
+| [**NeetCode**](https://neetcode.io/) | The coding interview roadmap that works | Free |
+| [**LeetCode**](https://leetcode.com/) | Practice the problems they'll actually ask | Free |
+| [**DataLemur**](https://datalemur.com/) | SQL and data interview questions | Free |
+| [**StrataScratch**](https://www.stratascratch.com/) | Real data science interview problems | Free |
+| [**Exercism**](https://exercism.org/) | Free coding practice with human mentors | Free |
 </details>
 
 <details> 
