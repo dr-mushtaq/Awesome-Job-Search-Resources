@@ -110,6 +110,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**tudelft**](https://careers.tudelft.nl/go/All-jobs/9021002/) | Find Postdoc and others job | Jobs, AI job, Free,Postdoc,PhD |
 | [**sciencecareers**](https://jobs.sciencecareers.org/) | Jobs in Science & Technology from Science Careers| Jobs, AI job, Free,Postdoc,Ph |
 | [**ATS Jobs MCP**](https://github.com/GeminiGeorge22/ats-jobs-mcp) | Open-source MCP server that lets an AI assistant pull new job postings since any date from Ashby, Greenhouse, Lever and SmartRecruiters job boards. | Jobs, AI Agent, MCP, Open Source |
+| [**Hiring Cafe**](https://hiring.cafe/) | AI job search across company career pages | Free |
+| [**Wellfound**](https://wellfound.com/) | Startup jobs, salary shown upfront | Free |
+| [**Remote OK**](https://remoteok.com/) | Remote tech jobs, worldwide | Free |
+| [**We Work Remotely**](https://weworkremotely.com/) | The biggest remote job board | Free |
+| [**New Grad Positions**](https://github.com/SimplifyJobs/New-Grad-Positions) | New grad roles, updated daily | Free |
+| [**Huntr**](https://www.huntr.co/) | Track every application in one board | Free |
+| [**Teal**](https://www.tealhq.com/) | Job tracker plus resume keyword matching | Free |
 </details>
 
 <details> 
