@@ -12,6 +12,16 @@ This curated list showcases some of the best and most reliable job websites—ca
 
 If you’d like to suggest a job site or contribute to this directory, feel free to reach out or submit ideas via pull request.
 
+### 🙌 Become a Sponsor
+
+You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach). or via Patron
+
+[<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" width="200">](https://www.patreon.com/cw/coursesteach)
+
+Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
+Thank you for your generous support! 🌟
+
+
 
 ## 🤝 Contributing
 
